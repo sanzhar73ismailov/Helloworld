@@ -7,7 +7,11 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
  
+<<<<<<< HEAD
   <name>Maven Quick Start Archetype - 1117</name>
+=======
+  <name>Maven Quick Start Archetype - 1115</name>
+>>>>>>> 8c3386d3516dd84ee3f5f91f7c29cc234ec7c186
   <url>http://maven.apache.org</url>
  
   <dependencies>
